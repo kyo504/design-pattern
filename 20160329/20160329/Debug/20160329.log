@@ -1,0 +1,10 @@
+﻿Build started 2016-03-29 오후 5:51:06.
+     1>Project "D:\design-pattern\20160329\20160329\20160329.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\design-pattern\20160329\20160329\Debug\20160329.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\design-pattern\20160329\20160329\Debug\20160329.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\design-pattern\20160329\20160329\Debug\20160329.lib" /MACHINE:X86 "Debug\8_메뉴이벤트7.obj"
+         20160329.vcxproj -> D:\design-pattern\20160329\20160329\Debug\20160329.exe
+     1>Done Building Project "D:\design-pattern\20160329\20160329\20160329.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.36
