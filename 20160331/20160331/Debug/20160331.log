@@ -1,0 +1,19 @@
+﻿Build started 2016-03-31 오후 4:35:52.
+     1>Project "D:\design-pattern\20160331\20160331\20160331.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "7_플라이웨이트.cpp"
+         7_플라이웨이트.cpp
+     1>d:\design-pattern\20160331\20160331\7_플라이웨이트.cpp(43): error C2248: 'Image::Image' : cannot access private member declared in class 'Image'
+                 d:\design-pattern\20160331\20160331\7_플라이웨이트.cpp(24) : see declaration of 'Image::Image'
+                 d:\design-pattern\20160331\20160331\7_플라이웨이트.cpp(15) : see declaration of 'Image'
+     1>d:\design-pattern\20160331\20160331\7_플라이웨이트.cpp(60): error C2248: 'Image::Image' : cannot access private member declared in class 'Image'
+                 d:\design-pattern\20160331\20160331\7_플라이웨이트.cpp(24) : see declaration of 'Image::Image'
+                 d:\design-pattern\20160331\20160331\7_플라이웨이트.cpp(15) : see declaration of 'Image'
+     1>d:\design-pattern\20160331\20160331\7_플라이웨이트.cpp(62): error C2248: 'Image::Image' : cannot access private member declared in class 'Image'
+                 d:\design-pattern\20160331\20160331\7_플라이웨이트.cpp(24) : see declaration of 'Image::Image'
+                 d:\design-pattern\20160331\20160331\7_플라이웨이트.cpp(15) : see declaration of 'Image'
+     1>Done Building Project "D:\design-pattern\20160331\20160331\20160331.vcxproj" (ClCompile target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.40
